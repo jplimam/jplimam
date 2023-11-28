@@ -28,9 +28,15 @@
 
   <p>I'm a 20 years old cheerful developer from Brazil with some knowledge in the chemistry and engineering area. But a tech lover since always, welcome to my profile! 😁<br><br>- 🔭 I’m open to work right now.<br>- 😎 I'm always looking to be kind and patient with me and my co-workers.<br>- 📚 I'm currently learning Javascript<br>- ⚡ In my free time I'm used to watch some retro animes, play games with friends and listen to many albums.<br>- 🎶 My favorite albums are ASTROWORLD by Travis Scott and DFAMD by Dominic Fike!<br>- 📢 Feel free to reach me on Linkedin or via email:   <a target="_blank" href="mailto: limamarcelojoaopedro@gmail.com">limamarcelojoaopedro@gmail.com</a></p>
 
-  <img src="https://tenor.com/3agB.gif"/>
+###
+
+<div align="center">
+  
+  <img height="200" src="https://media.giphy.com/media/eMzJNneeWjqyk/giphy.gif"/>
+</div>
 
 ###
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -65,14 +71,9 @@
 ###
 
 <div align="center">
-  <div style="display: flex;flex-direction:row">
-    <img src="https://github-readme-stats.vercel.app/api?username=jplimam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jplimam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   </div>
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/jplimam/jplimam/output/snake.svg" alt="Snake animation" />
-
-###
