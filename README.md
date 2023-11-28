@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="center">I'm a Fullstack Software Development student!</h2>
+<h2 align="center">I'm a Fullstack Software Development student!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20"/></h2>
 
 ###
 
