@@ -26,7 +26,7 @@
 
 ###
 
-  <p>I'm a 20 years old cheerful developer from Brazil with some knowledge in the chemistry and engineering area. But a tech lover since always, welcome to my profile! 😁<br><br>- 🔭 I’m open to work right now.<br>- 😎 I'm always looking to be kind and patient with me and my co-workers.<br>- 📚 I'm currently learning Javascript<br>- ⚡ In my free time I'm used to watch some retro animes, play games with friends and listen to many albums.<br>- 🎶 My favorite albums are ASTROWORLD by Travis Scott and DFAMD by Dominic Fike!<br>- 📢 Feel free to reach me on Linkedin or via email:   <a target="_blank" href="mailto: limamarcelojoaopedro@gmail.com">limamarcelojoaopedro@gmail.com</a></p>
+  <p>I'm a 21 years old cheerful developer from Brazil with some knowledge in the chemistry and engineering area. But a tech lover since always, welcome to my profile! 😁<br><br>- 🔭 I’m open to work right now.<br>- 😎 I'm always looking to be kind and patient with me and my co-workers.<br>- 📚 I'm currently learning Javascript<br>- ⚡ In my free time I'm used to watch some retro animes, play games with friends and listen to many albums.<br>- 🎶 My favorite albums are ASTROWORLD by Travis Scott and DFAMD by Dominic Fike!<br>- 📢 Feel free to reach me on Linkedin or via email:   <a target="_blank" href="mailto: limamarcelojoaopedro@gmail.com">limamarcelojoaopedro@gmail.com</a></p>
 
 ###
 
