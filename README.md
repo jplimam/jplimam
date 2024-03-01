@@ -92,10 +92,10 @@
 
 <div align="center">
   <a href="https://github.com/jplimam/">
-    <img height=180 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=jplimam&show_icons=true&theme=tokyonight" />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=jplimam&show_icons=true&theme=tokyonight" />
   </a>
   <a href="https://github.com/jplimam/">
-    <img height=180 width=320 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jplimam&layout=compact&theme=tokyonight&card_width=320" />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jplimam&layout=compact&theme=tokyonight&card_width=320" />
   </a>
 </div>
 
