@@ -70,12 +70,7 @@
 
 ###
 
-<div align="center">
-  <div>
-    [![João's GitHub stats]()]()
-    <img src="https://github-readme-stats.vercel.app/api?username=jplimam" height="150" alt="languages graph"  />
-    <img src="https://github.com/jplimam/github-readme-stats" height="150" alt="languages graph"  />
-  </div>
-</div>
+[![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=jplimam)](https://github.com/jplimam/github-readme-stats)
+
 
 
