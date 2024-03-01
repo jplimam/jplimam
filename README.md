@@ -71,7 +71,7 @@
 
 ###
 
-<h3 align="left">🛠 Other tools</h3>
+<h3 align="right">🛠 Other tools</h3>
 
 ###
 
