@@ -70,7 +70,7 @@
 
 ###
 
-<div align="space-between">
+<div align="space-evenly">
   <a href="https://github.com/jplimam/">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jplimam&show_icons=true&theme=tokyonight" />
   </a>
