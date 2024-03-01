@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/gXMUXAIDvVtrotMFVL/giphy.gif"  />
+  <img height="150" src="https://cdn.discordapp.com/attachments/633124770753282088/1212965553656827914/gif-jplimam.gif?ex=65f3c133&is=65e14c33&hm=752e71b5a98198febec164b6a42f9f4c3ee47ab233a79aa1efcaf301177419d3&"  />
 </div>
 
 ###
@@ -26,14 +26,11 @@
 
 ###
 
-  <p>I'm a 21 years old cheerful developer from Brazil with some knowledge in the chemistry and engineering area. But a tech lover since always, welcome to my profile! 😁<br><br>- 🔭 I’m open to work right now.<br>- 😎 I'm always looking to be kind and patient with me and my co-workers.<br>- 📚 I'm currently learning Javascript<br>- ⚡ In my free time I'm used to watch some retro animes, play games with friends and listen to many albums.<br>- 🎶 My favorite albums are ASTROWORLD by Travis Scott and DFAMD by Dominic Fike!<br>- 📢 Feel free to reach me on Linkedin or via email:   <a target="_blank" href="mailto: limamarcelojoaopedro@gmail.com">limamarcelojoaopedro@gmail.com</a></p>
+  <p>I'm a 21 years old cheerful developer from Brazil with some knowledge in the chemistry and engineering area. But a tech lover since always, welcome to my profile! 😁<br><br>- 🔭 I’m open to work right now.<br>- 😎 I'm always looking to be kind and patient with me and my co-workers.<br>- 📚 I'm currently learning Javascript<br>- ⚡ In my free time I'm used to watch some retro animes, play games with friends and listen to many albums.<br>- 🎶 My favorite albums are ASTROWORLD by Travis Scott and Máquina do Tempo by Matuê!<br>- 📢 Feel free to reach me on Linkedin or via email:   <a target="_blank" href="mailto: limamarcelojoaopedro@gmail.com">limamarcelojoaopedro@gmail.com</a></p>
 
-###
 
-<div align="center">
-  
-  <img height="200" src="https://media.giphy.com/media/eMzJNneeWjqyk/giphy.gif"/>
-</div>
+
+##
 
 ###
 
