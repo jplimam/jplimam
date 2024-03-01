@@ -70,7 +70,7 @@
 
 ###
 
-[![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=jplimam&show_icons=true)](https://github.com/jplimam/github-readme-stats)
+[![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=jplimam&show_icons=true&theme=tokyonight)](https://github.com/jplimam/github-readme-stats)
 
 
 
