@@ -83,16 +83,5 @@
   <img width="12" />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <a href="https://github.com/jplimam/">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jplimam&layout=compact&theme=tokyonight" />
-  </a>
-</div>
 
 
